@@ -1,0 +1,1 @@
+# jonash-minimal-spring-boot-open-api-swagger-example
